@@ -27,3 +27,4 @@ function getOSinfo() {
 }
 
 exports.print = getOSinfo;
+getOSinfo()
